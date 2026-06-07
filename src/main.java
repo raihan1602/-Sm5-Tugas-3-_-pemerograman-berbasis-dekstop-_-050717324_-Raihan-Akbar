@@ -201,7 +201,7 @@ public class main {
 
                 case 3:
                 System.out.println();
-                System.out.println(" Apakah Anda Mahasiga ?");
+                System.out.println(" Apakah Anda Mahasigma ?");
                 System.out.print(" Ya / Tidak : ");
                 String sigma = input.nextLine();
 
@@ -219,6 +219,7 @@ public class main {
 
                 case 5:
                 fileStruk.simpanStruk(pesananya);
+                break;
 
                 case 6:
                 fileMenu.simpanMenu(menunya);
