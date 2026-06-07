@@ -1,0 +1,6 @@
+MakananNasgor Goreng, 17000.0, Nasgor Kuadrat
+MakananBakso Nuklir, 20000.0, Kuah
+MakananMie Kuah Goreng, 15000.0, Setengan Campur
+MinumanEs Teh Panas, 7000.0, Panas Dingin
+MinumanKopi Hitam Putih, 8000.0, Panas
+MinumanAir Normal, 5000.0, Normal
